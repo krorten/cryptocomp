@@ -16,7 +16,8 @@
     },
     "autoload": {
         "psr-4" : {
-            "Krorten\\Cryptocomp\\" : "src/"
+            "Krorten\\Cryptocomp\\" : "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
