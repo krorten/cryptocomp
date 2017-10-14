@@ -2,7 +2,7 @@
     "name": "krorten/cryptocomp",
     "description": "Cryptocompare.com api wrapper for Laravel 5.5",
     "keywords": ["laravel", "cryptocompare", "bitcoin", "altcoin"] ,
-    "homepage": "https://github.com/krorten/cryptocompare",
+    "homepage": "https://github.com/krorten/cryptocomp",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,6 @@
         }        
     ],
     "require": {
-        "php": ">=7.0.0",
         "laravel/framework": ">=5.5.0",
         "loeken/cryptocompare-api-php-wrapper": "dev-master"
     },
