@@ -12,12 +12,12 @@
     ],
     "require": {
         "laravel/framework": ">=5.5.0",
-        "loeken/cryptocompare-api-php-wrapper": "dev-master"
+        "loeken/cryptocompare-api-php-wrapper": "@dev"
     },
     "autoload": {
         "psr-4" : {
             "Krorten\\Cryptocomp\\" : "src"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
