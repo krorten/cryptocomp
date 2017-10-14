@@ -22,6 +22,7 @@ Also, add the `Cryptocomp` facade to the `aliases` array in your `app` configura
 
 ```php
 'Cryptocomp' => Kroten\Cryptocomp\Facades\CryptocompFacade::class,    
+```
 
 See the [API documentation](https://cryptocompare.com/api/) for more information about the endpoints and responses.
 

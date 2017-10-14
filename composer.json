@@ -15,7 +15,7 @@
         "loeken/cryptocompare-api-php-wrapper": "dev-master"
     },
     "autoload": {
-        "psr-0" : {
+        "psr-4" : {
             "Krorten\\Cryptocomp" : "src"
         }
     }
