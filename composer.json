@@ -19,5 +19,5 @@
             "Krorten\\Cryptocomp\\" : "src"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
