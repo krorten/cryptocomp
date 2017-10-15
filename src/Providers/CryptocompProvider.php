@@ -5,7 +5,7 @@ namespace Krorten\Cryptocomp;
 use Illuminate\Support\ServiceProvider;
 use Loeken\CryptocompareApiPhpWrapper\Cryptocompare;
 
-class CoinMcServiceProvider extends ServiceProvider
+class CryptocompProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.

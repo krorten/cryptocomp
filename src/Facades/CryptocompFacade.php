@@ -4,7 +4,7 @@ namespace Krorten\Cryptocomp;
 
 use Illuminate\Support\Facades\Facade;
 
-class CryptocompareFacade extends Facade
+class CryptocompFacade extends Facade
 {
 
     protected static function getFacadeAccessor()
