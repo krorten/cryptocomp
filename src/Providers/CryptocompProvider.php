@@ -1,6 +1,6 @@
 <?php
 
-namespace Krorten\Cryptocomp;
+namespace Krorten\Cryptocomp\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Loeken\CryptocompareApiPhpWrapper\Cryptocompare;

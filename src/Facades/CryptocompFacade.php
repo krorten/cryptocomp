@@ -1,6 +1,6 @@
 <?php
 
-namespace Krorten\Cryptocomp;
+namespace Krorten\Cryptocomp\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
